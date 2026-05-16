@@ -44,6 +44,18 @@ This space exists to document, create, preserve, and expand.
 - Creative systems  
 - Hidden connections across the internet  
 
+## 🤖 Amienigma Intelligence System
+
+The Amienigma Universe is evolving toward a self-contained AI ecosystem.
+
+Goals include:
+- Information archiving
+- Autonomous exploration systems
+- Creative AI interaction
+- Connected knowledge pathways
+- Experimental digital consciousness structures
+
+This repository serves as the foundation layer.
 ---
 
 ## 🚪 Entry Points
