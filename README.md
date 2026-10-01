@@ -20,6 +20,7 @@ Dallas, TX | São Paulo
 |------|------------|
 | **[Amienigma AI](https://amienigma-llm.vercel.app)** ([repo](https://github.com/Amienigma/amienigma-llm)) | Flagship creative studio — chat, stills, short clips, Discover |
 | **[108 LOCK](https://108-lock.vercel.app)** ([repo](https://github.com/Amienigma/108-lock)) | Night grade + Texas symbol stamps |
+| **[Spec Ledger](https://ui-demo-interactive.vercel.app)** ([repo](https://github.com/Amienigma/UI-Demo-interactive)) | Interactive phone comparison demo UI |
 | **[Archive Intelligence notes](https://github.com/Amienigma/amienigma_ai)** | Vision notebook — not the shipping product |
 | **[Neglect Archive lore](https://github.com/Amienigma/Amienigma---A-Nativerse)** | Worldbuilding language only — *Art survives where systems decay* |
 | **[Studio blog](https://amienigma.art.blog/)** | Art, photography, music, internet culture |
