@@ -14,18 +14,14 @@ Dallas, TX | São Paulo
 
 ---
 
-## Entry Points
+## The Apps
 
-| Door | What it is |
-|------|------------|
-| **[Amienigma AI](https://amienigma-llm.vercel.app)** ([repo](https://github.com/Amienigma/amienigma-llm)) | Flagship creative studio — chat, stills, short clips, Discover |
-| **[108 LOCK](https://108-lock.vercel.app)** ([repo](https://github.com/Amienigma/108-lock)) | Night grade + Texas symbol stamps |
-| **[Spec Ledger](https://ui-demo-interactive.vercel.app)** ([repo](https://github.com/Amienigma/UI-Demo-interactive)) | Interactive phone comparison demo UI |
-| **[808 PIT](https://demo-soundboard.vercel.app)** ([repo](https://github.com/Amienigma/demo-soundboard)) | Atlanta/Memphis browser soundboard demo |
-| **[SkinLab](https://amienigma-ui-skinlab.vercel.app)** ([repo](https://github.com/Amienigma/amienigma-ui-skinlab)) | Harmony / One UI / iOS phone skin studio |
-| **[Archive Intelligence notes](https://github.com/Amienigma/amienigma_ai)** | Vision notebook — not the shipping product |
-| **[Neglect Archive lore](https://github.com/Amienigma/Amienigma---A-Nativerse)** | Worldbuilding language only — *Art survives where systems decay* |
-| **[Studio blog](https://amienigma.art.blog/)** | Art, photography, music, internet culture |
+| App | What it is |
+|-----|------------|
+| **[Amienigma AI](https://amienigma-llm.vercel.app)** ([repo](https://github.com/Amienigma/amienigma-llm)) | One studio for AI: chat, stills, short clips, Discover, the [Attachment Translator](https://amienigma-llm.vercel.app/translator), and the [PINKROOT](https://amienigma-llm.vercel.app/pinkroot) LLM command center, connected to multiple LLMs through one server |
+| **[NOCTURNE × 808 PIT](https://amienigma.github.io/nocturne/)** ([repo](https://github.com/Amienigma/nocturne)) | Browser beat-making studio: Atlanta 808 subs, Memphis chords, synth keyboard, trap drum pad, and a 12-track step sequencer, all synthesized with Web Audio |
+
+**Websites:** [Amienigma AI](https://amienigma-llm.vercel.app) · [NOCTURNE × 808 PIT](https://amienigma.github.io/nocturne/) · [Studio blog](https://amienigma.art.blog/)
 
 ---
 
